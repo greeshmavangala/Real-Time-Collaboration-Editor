@@ -14,7 +14,7 @@ MENTOR : NEELA SANTHOSH
 
 ---
 
-# 📝 Real-Time Collaborative Text Editor
+#  Real-Time Collaborative Text Editor
 
 ##  Project Description
 
@@ -99,7 +99,7 @@ Your React app will now run on http://localhost:3000.
 
 ## output
 
-
+![Image](https://github.com/user-attachments/assets/8a28800e-75f4-42c4-9e6c-55d68d855c62)
 
 
   
